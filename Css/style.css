@@ -1,0 +1,25 @@
+.hero-section{
+    background: url('/photo/bg.png');
+    height:450px;
+    width:100%;
+}
+.btn {
+    text-align: center;
+}
+.text{
+   padding-top: 100px;
+}
+
+.about-section {
+    background: url('/photo/himdru.png');
+    height:450px;
+    width:100%;
+}
+.process{
+    background:url('/photo/himdru.png')
+}
+.New-project{
+    background: url('/photo/bg.png');
+    height: 300px;
+    width: 100%;
+}
